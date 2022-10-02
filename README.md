@@ -9,5 +9,4 @@
 ## 👯 I’m looking to collaborate on frontend projects and cool ideas.
 ## 🤔 I’m looking for help with open source and technical writing
 ## 📫 How to reach me: munenenjue18@gmail.com
-[![@mac's Holopin board](https://holopin.io/api/user/board?user=mac)](https://holopin.io/@mac)
 
