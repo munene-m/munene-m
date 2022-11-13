@@ -6,7 +6,7 @@
 -->
 
 ## 🔭 I’m currently working on vue js projects
-## 🌱 I’m currently learning vue js and node js
+## 🌱 I’m currently learning MEVN Stack
 ## 👯 I’m looking to collaborate on frontend projects and cool ideas.
 ## 🤔 I’m looking for help with open source and technical writing
 <h3 align="left">Connect with me:</h3>
