@@ -12,4 +12,4 @@
 <p align="left">
 </p>
 <p>Github streak:</p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=munene-m">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=munene-m&theme=gotham&border_radius=5.5">
