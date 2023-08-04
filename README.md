@@ -1,13 +1,12 @@
 
-<img align="center" alt="Coding" width="400" src="header.png">
 
+# Hi, I'm Munene
 <!--
 **munene-m/munene-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working Vue and Node.js projects
-- 🌱 I’m currently learning Nuxt and Docker
-- 👯 I’m looking to collaborate on frontend projects and cool ideas in any other areas.
-- 🤔 I’m looking for help with open source and technical writing
+- 🔭 Currently working on Vue, Nuxt and Node.js projects
+- 🌱 Always learning
+- 👯 Looking to collaborate on frontend projects and cool ideas in any other areas.
 <p align="left">
 </p>
 <p>Github streak:</p>
