@@ -6,7 +6,7 @@
 -->
 - 🔭 Currently working on Vue, Nuxt and Node.js projects
 - 🌱 Always learning
-- 👯 Looking to collaborate on frontend projects and cool ideas on the web.
+- 👯 Looking to collaborate on fullstack projects and cool ideas on the web.
 <p align="left">
 </p>
 <p>Github streak:</p>
