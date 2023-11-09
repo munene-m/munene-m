@@ -4,9 +4,7 @@
 <!--
 **munene-m/munene-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 Currently working on Vue, Nuxt and Node.js projects
-- 🌱 Always learning
-- 👯 Looking to collaborate on fullstack projects and cool ideas on the web.
+I am a software engineer currently building web apps.
 <p align="left">
 </p>
 <p>Github streak:</p>
