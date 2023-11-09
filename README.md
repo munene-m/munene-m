@@ -5,6 +5,11 @@
 **munene-m/munene-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 I am a software engineer currently building web apps in Typescript and JS.
+
+### Tools and technologies
+- Vue.js, Node.js, Typescript, MongoDB, postrgreSQL, Docker, Redis
+
+  
 <p align="left">
 </p>
 <p>Github streak:</p>
