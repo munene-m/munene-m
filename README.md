@@ -7,7 +7,7 @@
 I am a software engineer currently building web apps in Typescript and JS.
 
 ### Tools and technologies
-- Vue.js, React, Node.js, Typescript, MongoDB, postrgreSQL, Docker, Redis
+- Vue.js, React, Node.js, Typescript, Golang, MongoDB, postrgreSQL, Docker, Redis
 
   
 <p align="left">
