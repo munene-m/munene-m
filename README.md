@@ -1,10 +1,8 @@
 
-
-# Hi, I'm Munene
 <!--
 **munene-m/munene-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a software engineer currently building web apps in Typescript and JS.
+## I am currently building web apps in Typescript and Golang.
 
 ### Tools and technologies
 - Vue.js, React, Node.js, Typescript, Golang, MongoDB, postrgreSQL, Docker, Redis
